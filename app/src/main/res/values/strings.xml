@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">LanguageDemo</string>
+
+    <string name="msg_welcome">Welcome to MindOrks!</string>
+    <string name="label_btn_english">Open Next Activity in English</string>
+    <string name="label_btn_hindi">Open Next Activity in Hindi</string>
+    <string name="msg_learning">Hello Everyone! I am learning how to change the App Locale. Having fun in learning this.</string>
+
+</resources>
